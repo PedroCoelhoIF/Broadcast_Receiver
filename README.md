@@ -1,7 +1,7 @@
 # Monitor de Bateria 🔋
 Aplicação Flutter para monitoramento em tempo real do nível de bateria com alertas inteligentes, Broadcast Receiver nativo e interface moderna em tema escuro.
 
-#
+![Demonstração APP Monitoramento_Bateria](https://github.com/PedroCoelhoIF/Broadcast_Receiver/blob/main/assets/demo/demo-app-monitoramento-bateria.gif?raw=true)
 
 ## Sobre o Projeto
 Aplicação mobile desenvolvida em Flutter que oferece monitoramento completo da bateria do dispositivo, incluindo:
